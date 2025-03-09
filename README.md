@@ -1,4 +1,4 @@
-# J-Quantsを使用した、株価の取得と可視化
+# J-Quantsを使用した株価の取得と可視化
 Python, VSCode, Jupyter Notebook, J-Quantsを使って株価の取得と可視化を行っています。  
 JPX-Jquants.ipynbがJ-Quantsから取得、可視化しているファイルです。  
 設定ファイルとして、
